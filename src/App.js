@@ -37,7 +37,7 @@ function App() {
   return (
     <div className="min-h-screen bg-white">
       {/* Hero Section */}
-      <section className="py-24 px-4 bg-slate-600 text-white">
+      <section className="py-24 px-4 bg-slate-900 text-white">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-7xl font-bold mb-6">CYA</h1>
           <p className="text-xl mb-8 max-w-2xl mx-auto">

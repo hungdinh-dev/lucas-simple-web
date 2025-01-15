@@ -48,12 +48,9 @@ function App() {
             <button className="bg-white text-slate-900 px-8 py-3 rounded-lg font-semibold hover:bg-slate-100">
               Apply for Residency
             </button>
-            <a
-              href="https://www.facebook.com/giabao.dinh.754"
-              className="border-2 border-white px-8 py-3 rounded-lg font-semibold hover:bg-slate-800"
-            >
-              Hello Lucas
-            </a>
+            <button className="border-2 border-white px-8 py-3 rounded-lg font-semibold hover:bg-slate-800">
+              Learn More
+            </button>
           </div>
         </div>
       </section>
